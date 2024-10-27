@@ -1,3 +1,4 @@
+
                                               #  C# EĞİTİM KAMPI PROJELER
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
 
@@ -5,13 +6,13 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 Bu projede, konsola yazı yazdırmayı öğrendim. Console.WriteLine() komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım. 
 
  Proje 2: Değişkenler
-Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim. 
+Bu projede, . 
 
  Proje 3: Diziler (Arrays)
-Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. 
+Bu projede, dizileri öğrendim ve bir dizi tanımlayıp nasıl çalıştığını kavradım 
 
  Proje 4: Karar Yapıları (If-Else)
-Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. 
+Bu projede, if else karar yapılarını öğrendim koşullara bağlı olarak ilgili kodun çalıştığını kavradım.
 
  Proje 5: Döngüler (Loops)
 Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım.
