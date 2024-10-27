@@ -6,7 +6,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 Bu projede, konsola yazı yazdırmayı öğrendim. Console.WriteLine() komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım. 
 
  Proje 2: Değişkenler
-Bu projede, . 
+Bu projede, değişkenlerin yapısını öğrendim hangi değişken ne işe yaradığını kavradım. 
 
  Proje 3: Diziler (Arrays)
 Bu projede, dizileri öğrendim ve bir dizi tanımlayıp nasıl çalıştığını kavradım 
