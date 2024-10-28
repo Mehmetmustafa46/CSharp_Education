@@ -28,3 +28,8 @@ Bu projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan ald
 
   Proje 9: Sql veri tabanı tablo oluşturma ve C# bağlama
  Bu projede,C# ile veri tabanına bağlanma ve veri tabanında tablo oluşturmayı öğrendim.
+
+  Proje 10: Sql veri tabanında günceleme,veri eklemeve silme
+ Bu projede Database de kurduğumuz tabloların içindeki verileri silme işlemini,Güncelleme işlemini ve Veri ekleme işlemini öğrendim. 
+
+  
